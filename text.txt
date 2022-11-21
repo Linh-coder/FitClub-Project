@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 1) help danh sách
+=======
+1) help danh sách lệnh CMD
+>>>>>>> f8583953f9c16ee43082dbf5ce756a7dc212ad8d
